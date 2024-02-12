@@ -5,7 +5,7 @@ function reverseFunction(num) {
 	return parseInt(reversedArray.join(''));
 }
 
-let num = 123456789;
+let num = 0987654321;
 let reversedNum = reverseFunction(num);
 
 console.log(reversedNum);
